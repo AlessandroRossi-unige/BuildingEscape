@@ -2,6 +2,8 @@
 
 Video: https://youtu.be/jnRjHjrOpnQ
 
+To check my other projects: https://www.alessandrorossigamedev.com/portfolio
+
 This is a very basic puzzle game to test gameplay conditions and some basic physics.
 
 The objective of the game is to Exit the building, the door will open if a certain amount of mass is under the light. 
